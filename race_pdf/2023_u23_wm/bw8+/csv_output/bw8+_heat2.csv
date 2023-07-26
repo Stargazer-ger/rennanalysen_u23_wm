@@ -1,5 +1,5 @@
-Countr,ITA,Unnamed: 0,GER,Unnamed: 1,USA,Unnamed: 2,,,,,,
-Rank,3,,2,,1,,,,,,,,
+Country,ITA,Unnamed: 0,GER,Unnamed: 1,USA,Unnamed: 2,,,,,,
+Rank,3,,2,,1,,,,,,,
 Dist.,Speed,Stroke,Speed,Stroke,Speed,Stroke,Speed,Stroke,Speed,Stroke,Speed,Stroke
 [m],[m/s],(spm),[m/s],(spm),[m/s],(spm),[m/s],(spm),[m/s],(spm),[m/s],(spm)
 50,5.6,44.0,5.7,44.0,5.5,44.0,-,-,-,-,-,-
